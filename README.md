@@ -1,7 +1,7 @@
 ### Olá, seja bem vindo ao meu perfil! 👋
 
-- 🌱 Estudando C#/.NET
-- 📫 Contate-me no email: vinicius.fernandes.lima@outlook.com
+- 🌱 Studying: C#/.NET
+- 📫 Contact me by email: vinicius.fernandes.lima@outlook.com
 
 ##
 
@@ -42,7 +42,8 @@
   
   ##
   
-  <div>
-    <a href="https://www.linkedin.com/in/vinicius-fernandes-de-lima-767828218/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank></a>"
-    <a href="https://gitlab.com/ViniFernandesL" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank></a>"
-  </div>
+ <div>
+   <a href="https://www.linkedin.com/in/vinicius-fernandes-de-lima-767828218/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="mailto:vihnny.fernandes@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://gitlab.com/ViniFernandesL" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"  target="_blank"></a>
+ </div>
