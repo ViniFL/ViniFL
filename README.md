@@ -4,7 +4,7 @@
 - 📫 Contact me by email: vinicius.fernandes.lima@outlook.com
 
 ##
-<div>
+
 <div align="center">
    <a href="https://github.com/ViniFL">
    <img height: "180em" src="https://github-readme-stats.vercel.app/api?username=ViniFL&show_icons=true&theme=tokyonight&include_all_comits=true&count_private=true"/>
@@ -47,5 +47,3 @@
    <a href="mailto:vihnny.fernandes@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://gitlab.com/ViniFernandesL" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"  target="_blank"></a>
  </div>
- ![Snake animation](https://github.com/vinifl/vinifl/blob/output/github-contribution-grid-snake.svg)
-</div>
