@@ -1,4 +1,4 @@
-### Olá, seja bem vindo ao meu perfil! 👋
+### Hello, welcome to my profile! 👋
 
 - 🌱 Studying: C#/.NET
 - 📫 Contact me by email: vinicius.fernandes.lima@outlook.com
