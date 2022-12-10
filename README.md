@@ -1,6 +1,6 @@
 ### Hello, welcome to my profile! 👋
 
-- 🌱 Studying: C# and .NET
+- 🌱 Studying: C# and Angular
 - 📫 Contact me by email: vinicius.fernandes.lima@outlook.com
 
 ##
