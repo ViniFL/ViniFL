@@ -1,6 +1,6 @@
 ### Hello, welcome to my profile! 👋
 
-- 🌱 Studying: C#, Java and Angular
+- 🌱 Studying: Java and Spring
 - 📫 Contact me by email: vinicius.fernandes.lima@outlook.com
 
 ##
