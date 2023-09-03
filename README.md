@@ -9,6 +9,7 @@
    <a href="https://github.com/ViniFL">
    <img height: "180em" src="https://github-readme-stats.vercel.app/api?username=ViniFL&show_icons=true&theme=tokyonight&include_all_comits=true&count_private=true"/>
    <img height: "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniFL&layout=compact&langs_count=16&theme=tokyonight"/>
+   <img height: "150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ViniFL424&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ## Front-end
